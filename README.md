@@ -23,7 +23,7 @@ Cleaned the dataset using Python (Pandas)
 Performed Exploratory Data Analysis (EDA) with Seaborn and Matplotlib
 Dropped unnecessary columns like EmployeeCount, Over18, StandardHours
 Created an interactive dashboard in Power BI to visualize attrition trends
- Files Included
+# Files Included
 hr_attrition_analysis.ipynb → Jupyter Notebook (Python EDA)
 HR_Attrition_Dashboard.pbix → Power BI Dashboard
 hr_data.csv → Original Dataset
