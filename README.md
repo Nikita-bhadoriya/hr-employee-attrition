@@ -4,7 +4,7 @@ HR Employee Attrition Analysis
 Python
 Pandas
 Power BI
-Matplotlib & Seaborn
+Matplotlib & Seaborn 
 # Project Description
 This project analyzes employee attrition in an organization using a real-world HR dataset. The aim is to discover the key factors leading to employee resignations and provide insights that help improve retention strategies.
 
